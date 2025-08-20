@@ -60,7 +60,4 @@ By centralizing and making this information accessible, LAFTer aims to improve c
 
 ## Screenshots-
 
-<img width="1920" height="1200" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/fa86a9dd-4783-439f-8e41-2fb99e8babb9" />
-<img width="1920" height="1200" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/8145a403-2846-4e21-a310-694fb2d968a2" />
-<img width="1920" height="1200" alt="Screenshot (178)" src="https://github.com/user-attachments/assets/46af53b8-da88-4912-b7ba-ca309f1ba533" />
-<img width="1920" height="1200" alt="Screenshot (177)" src="https://github.com/user-attachments/assets/654b3e1f-3e09-4980-9839-ab750f0098aa" />
+https://drive.google.com/drive/folders/1NAlMb65JKIt9K2p3xtJLyheCslsfvz8R?usp=sharing
